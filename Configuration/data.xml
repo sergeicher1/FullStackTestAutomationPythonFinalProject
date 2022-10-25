@@ -1,0 +1,40 @@
+<?xml version = "1.0" encoding="utf-8"?>
+<Environment>
+    <!--General-->
+    <WaitTime>2</WaitTime>
+    <ScreenshotPath>D:\AtidAutomation\FullStackFinalProject\Allure-Screenshots\</ScreenshotPath>
+
+    <!--WEB & API-->
+    <Browser>Chrome</Browser> <!--Not relevant for Jenkins parametrized-->
+    <URL>https://opensource-demo.orangehrmlive.com/</URL>
+    <URLAPI>https://reqres.in</URLAPI>
+    <APIResource>/api/users/</APIResource>
+    <UserName>Admin</UserName>
+    <Password>admin123</Password>
+    <CSVLocation>D:\\AtidAutomation\\FullStackFinalProject\\DataDrivenTesting\\users.csv</CSVLocation>
+    <ExecuteApplitools>no</ExecuteApplitools> <!--yes/no To Execute Applitools-->
+    <ApplitoolsKey>5MvGYI7HIlseOjjLLXPQOKm6WNEd3imzQUVGYvjpdDE110</ApplitoolsKey>
+
+    <!--Mobile-->
+    <MobileDevice>Android</MobileDevice>
+    <Udid>122019M101600229</Udid>
+    <AppPackage>com.example.settingsapp</AppPackage>
+    <AppActivity>.SettingsActivity</AppActivity>
+    <BundleID>com.example.settingsapp</BundleID><!--For IOS ONLY-->
+    <AppiumServer>http://localhost:4723/wd/hub</AppiumServer>
+    <SwipeDuration>200</SwipeDuration>
+
+    <!--Electron-->
+    <ElectronApp>D:\\AtidAutomation\\FullStackFinalProject\\AppsServersDrivers\\myappElectron\\app.exe</ElectronApp>
+    <ElectronDriver>D:\\AtidAutomation\\FullStackFinalProject\\AppsServersDrivers\\electrondriver.exe</ElectronDriver>
+
+    <!--Desktop-->
+    <ApplicationName>D:\AtidAutomation\FullStackFinalProject\AppsServersDrivers\MyappWPF\MyWpfApp.exe</ApplicationName>
+    <WinAppDriverService>http://127.0.0.1:4723</WinAppDriverService>
+
+    <!--DataBase-->
+    <DbHost>MYSQL8001.site4now.net</DbHost>
+    <DbName>db_a85ca8_anfiska</DbName>
+    <DbUser>a85ca8_anfiska</DbUser>
+    <DbPassword>Anfisk@1980</DbPassword>
+</Environment>

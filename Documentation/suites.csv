@@ -1,0 +1,30 @@
+Status,Start Time,Stop Time,Duration in ms,Parent Suite,Suite,Sub Suite,Test Class,Test Method,Name,Description
+passed,Sun Oct 23 01:31:16 IDT 2022,Sun Oct 23 01:31:20 IDT 2022,3496,TestCases,test_Web,Test_Web,,,"Test Case 05: Create  employees, using data driven test","This test created  employees, using data driven test"
+passed,Sun Oct 23 01:31:05 IDT 2022,Sun Oct 23 01:31:09 IDT 2022,3443,TestCases,test_Web,Test_Web,,,Test Case 01: Verify Login,This test verifies Login to Orange HRM
+broken,Mon Oct 24 13:45:41 IDT 2022,Mon Oct 24 13:45:43 IDT 2022,2622,TestCases,test_Desktop,Test_DesktopMyApp,,,Test Case 02: Insert text to text box,This test inserts text to text box
+failed,Sat Oct 22 10:39:09 IDT 2022,Sat Oct 22 10:39:13 IDT 2022,4358,,test_Web,Test_Web,,,"Test Case 05: Create  employees, using data driven test","This test created  employees, using data driven test"
+passed,Sat Oct 22 10:38:55 IDT 2022,Sat Oct 22 10:38:57 IDT 2022,2299,,test_Web,Test_Web,,,Test Case 01: Verify Login,This test verifies Login to Orange HRM
+skipped,Sat Oct 22 18:52:29 IDT 2022,Sat Oct 22 18:52:29 IDT 2022,0,TestCases,test_Web,Test_Web,,,Test Case 07: Visual Testing,"This visual test, mostly will fail because of orange always updated by others, or not executed because of limitation of applitools "
+failed,Sat Oct 22 10:38:58 IDT 2022,Sat Oct 22 10:39:01 IDT 2022,2694,,test_Web,Test_Web,,,Test Case 04: Create new employee and verify it was created,This test creates a new employee and verifies it was created
+passed,Sun Oct 23 12:43:01 IDT 2022,Sun Oct 23 12:43:01 IDT 2022,247,TestCases,test_API,Test_API,,,Test Case 01: Get values from API response,This test receives values from api request
+failed,Sat Oct 22 10:39:01 IDT 2022,Sat Oct 22 10:39:04 IDT 2022,2822,,test_Web,Test_Web,,,"Test Case 05: Create  employees, using data driven test","This test created  employees, using data driven test"
+passed,Sun Oct 23 12:43:01 IDT 2022,Sun Oct 23 12:43:02 IDT 2022,239,TestCases,test_API,Test_API,,,Test Case 03: Update a record,This test updates a record
+broken,Sat Oct 22 10:39:04 IDT 2022,Sat Oct 22 10:39:06 IDT 2022,2296,,test_Web,Test_Web,,,"Test Case 05: Create  employees, using data driven test","This test created  employees, using data driven test"
+broken,Sun Oct 23 01:31:27 IDT 2022,Sun Oct 23 01:31:30 IDT 2022,2797,TestCases,test_Web,Test_Web,,,Test Case 06: Delete employee by ID,"This test filters employees by ID, deletes it and verify it was deleted"
+passed,Sun Oct 23 01:31:10 IDT 2022,Sun Oct 23 01:31:12 IDT 2022,2481,TestCases,test_Web,Test_Web,,,Test Case 04: Create new employee and verify it was created,This test creates a new employee and verifies it was created
+passed,Tue Oct 25 08:35:43 IDT 2022,Tue Oct 25 08:35:47 IDT 2022,3928,TestCases,test_WebDatabase,Test_WebDataBase,,,Test Case 01: Login to orange hrm and create new employees using database,This test logins to orange hrm and creates new employees using database
+passed,Sun Oct 23 01:31:09 IDT 2022,Sun Oct 23 01:31:09 IDT 2022,448,TestCases,test_Web,Test_Web,,,Test Case 02:  Verify Elements on Left Menu Bar Orange HRM – HR Management,This test verifies presentation of element on left menu bar
+passed,Sun Oct 23 01:31:23 IDT 2022,Sun Oct 23 01:31:27 IDT 2022,3538,TestCases,test_Web,Test_Web,,,"Test Case 05: Create  employees, using data driven test","This test created  employees, using data driven test"
+passed,Sun Oct 23 01:21:40 IDT 2022,Sun Oct 23 01:21:45 IDT 2022,4512,TestCases,test_Mobile,Test_Mobile,,,Test Case 02: Change default reply action,This test changes default replay action
+passed,Sun Oct 23 12:43:01 IDT 2022,Sun Oct 23 12:43:01 IDT 2022,258,TestCases,test_API,Test_API,,,Test Case 02: Post new record,This test creates a new record
+passed,Sun Oct 23 01:31:09 IDT 2022,Sun Oct 23 01:31:10 IDT 2022,504,TestCases,test_Web,Test_Web,,,Test Case 03: Verify Elements on Upper Menu,This test verifies presentation of elements on upper menu bar
+passed,Sun Oct 23 01:31:20 IDT 2022,Sun Oct 23 01:31:23 IDT 2022,3772,TestCases,test_Web,Test_Web,,,"Test Case 05: Create  employees, using data driven test","This test created  employees, using data driven test"
+passed,Sun Oct 23 01:21:33 IDT 2022,Sun Oct 23 01:21:40 IDT 2022,6843,TestCases,test_Mobile,Test_Mobile,,,Test Case 01: Change signature,This test changes the signature of the app
+broken,Sat Oct 22 10:39:07 IDT 2022,Sat Oct 22 10:39:09 IDT 2022,2397,,test_Web,Test_Web,,,"Test Case 05: Create  employees, using data driven test","This test created  employees, using data driven test"
+passed,Sun Oct 23 01:31:12 IDT 2022,Sun Oct 23 01:31:16 IDT 2022,3667,TestCases,test_Web,Test_Web,,,"Test Case 05: Create  employees, using data driven test","This test created  employees, using data driven test"
+passed,Mon Oct 24 13:45:40 IDT 2022,Mon Oct 24 13:45:41 IDT 2022,487,TestCases,test_Desktop,Test_DesktopMyApp,,,Test Case 01: Verify the checkbox,This test verifies on the checkbox
+passed,Sun Oct 23 12:43:02 IDT 2022,Sun Oct 23 12:43:02 IDT 2022,270,TestCases,test_API,Test_API,,,Test Case 04: Delete record,This test deletes a record and verifies
+skipped,Sun Oct 23 01:31:30 IDT 2022,Sun Oct 23 01:31:30 IDT 2022,0,TestCases,test_Web,Test_Web,,,Test Case 07: Visual Testing,"This visual test, mostly will fail because of orange always updated by others, or not executed because of limitation of applitools "
+passed,Sat Oct 22 10:38:57 IDT 2022,Sat Oct 22 10:38:58 IDT 2022,596,,test_Web,Test_Web,,,Test Case 02:  Verify Elements on Left Menu Bar Orange HRM – HR Management,This test verifies presentation of element on left menu bar
+passed,Sat Oct 22 10:38:58 IDT 2022,Sat Oct 22 10:38:58 IDT 2022,419,,test_Web,Test_Web,,,Test Case 03: Verify Elements on Upper Menu,This test verifies presentation of elements on upper menu bar
+broken,Sat Oct 22 10:39:14 IDT 2022,Sat Oct 22 10:39:14 IDT 2022,431,,test_Web,Test_Web,,,Test Case 06: Delete employee by ID,"This test filters employees by ID, deletes it and verify it was deleted"

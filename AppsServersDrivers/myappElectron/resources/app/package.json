@@ -1,0 +1,17 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "tempcalculator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sergei",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^21.2.0"
+  },
+  "devDependencies": {
+    "electron-packager": "^17.0.0"
+  }
+}

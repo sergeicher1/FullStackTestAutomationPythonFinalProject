@@ -1,0 +1,100 @@
+1666174863023	geckodriver	INFO	Listening on 127.0.0.1:50844
+1666174866081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileizeYU0"
+1666174895119	geckodriver	INFO	Listening on 127.0.0.1:50947
+1666174898197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50948" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileOgArV9"
+1666174898556	Marionette	INFO	Marionette enabled
+1666174898559	Marionette	INFO	Listening on port 50960
+WebDriver BiDi listening on ws://127.0.0.1:50948
+Read port: 50960
+1666174898777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileOgArV9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50948/devtools/browser/f79b8e97-9f83-47c4-bf9f-bb7a56e21b9b
+1666174905012	Marionette	INFO	Stopped listening on port 50960
+1666181761444	geckodriver	INFO	Listening on 127.0.0.1:53845
+1666181764486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileqsGDKr"
+1666181764862	Marionette	INFO	Marionette enabled
+1666181764866	Marionette	INFO	Listening on port 53856
+WebDriver BiDi listening on ws://127.0.0.1:53846
+Read port: 53856
+1666181765044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileqsGDKr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53846/devtools/browser/e1f4d392-8403-405c-a6c1-fc40e2941f82
+1666181769854	Marionette	INFO	Stopped listening on port 53856
+[Parent 23732, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666261267262	geckodriver	INFO	Listening on 127.0.0.1:49774
+1666261270327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileULNF6t"
+1666261270914	Marionette	INFO	Marionette enabled
+1666261270920	Marionette	INFO	Listening on port 49785
+WebDriver BiDi listening on ws://127.0.0.1:49775
+Read port: 49785
+1666261271057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileULNF6t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49775/devtools/browser/770ddc94-2428-4b20-8f1c-8cf69fab460a
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1666261280075	Marionette	INFO	Stopped listening on port 49785
+1666424150622	geckodriver	INFO	Listening on 127.0.0.1:59815
+1666424153701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59816" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileFhKfmM"
+1666424154125	Marionette	INFO	Marionette enabled
+1666424154129	Marionette	INFO	Listening on port 59827
+Read port: 59827
+WebDriver BiDi listening on ws://127.0.0.1:59816
+1666424154230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileFhKfmM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59816/devtools/browser/75298bdb-9752-4592-a76e-218b31ad18ad
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1666424182871	Marionette	INFO	Stopped listening on port 59827
+1666424201601	geckodriver	INFO	Listening on 127.0.0.1:60070
+1666424204675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileJLpuaG"
+1666424205020	Marionette	INFO	Marionette enabled
+1666424205024	Marionette	INFO	Listening on port 60082
+WebDriver BiDi listening on ws://127.0.0.1:60071
+Read port: 60082
+1666424205246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileJLpuaG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60071/devtools/browser/951ded50-5aab-4956-b6fd-7b9f8093e45e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1666424233525	Marionette	INFO	Stopped listening on port 60082
+1666424328555	geckodriver	INFO	Listening on 127.0.0.1:60389
+1666424331625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileMgWwd0"
+1666424331971	Marionette	INFO	Marionette enabled
+1666424331976	Marionette	INFO	Listening on port 60401
+WebDriver BiDi listening on ws://127.0.0.1:60390
+Read port: 60401
+1666424332203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileMgWwd0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60390/devtools/browser/f3d6afae-99f8-4cfc-8904-d4189cd94c67
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1666424358248	Marionette	INFO	Stopped listening on port 60401
+[Parent 6808, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666477803680	geckodriver	INFO	Listening on 127.0.0.1:53673
+1666477806749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53674" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofilettZgi3"
+1666477807316	Marionette	INFO	Marionette enabled
+1666477807321	Marionette	INFO	Listening on port 53683
+WebDriver BiDi listening on ws://127.0.0.1:53674
+Read port: 53683
+1666477807586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofilettZgi3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53674/devtools/browser/db451098-80e4-47c8-990a-a912817a8e35
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1666477840891	Marionette	INFO	Stopped listening on port 53683
