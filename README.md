@@ -5,6 +5,9 @@ Short Video – Description (https://youtu.be/-hh9Q2owlxk)
 
 Screenshots – (https://github.com/sergeicher1/FullStackTestAutomationPythonFinalProject/tree/master/Screenshots)
 
+Documentation - Complete used in this project:
+(https://github.com/sergeicher1/FullStackTestAutomationPythonFinalProject/tree/master/Documentation)
+
 
 
    This project was created to demonstrate my knowledge and skills in Automation Testing.
