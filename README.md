@@ -1,4 +1,4 @@
-                                          Full Stack Test Automation Project with Python
+                                     Full Stack Test Automation Project with Python
 
 
 Short Video – Description (https://youtu.be/-hh9Q2owlxk)
@@ -14,7 +14,7 @@ Documentation - Complete used in this project:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                                                             About
+                                         About
 
 This project demonstrates a smart automation infrastructure that allows testing different kinds of applications and is easily maintained!
 
@@ -44,7 +44,7 @@ CI with Jenkins – the project is completely running from the Jenkins server
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                                                Infrastructure project includes the use of:
+                                         Infrastructure project includes the use of:
 
 	Page Object Design Pattern 
 
@@ -70,7 +70,7 @@ CI with Jenkins – the project is completely running from the Jenkins server
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                                                A list of applications used in this project: 
+                                          A list of applications used in this project: 
 
 	Orange HRM – Open-Source HR Management
 
@@ -86,7 +86,7 @@ CI with Jenkins – the project is completely running from the Jenkins server
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                                                Tools & Frameworks used in this project:
+                                          Tools & Frameworks used in this project:
 
 
 	PyTest – Testing Framework
@@ -99,14 +99,14 @@ CI with Jenkins – the project is completely running from the Jenkins server
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                                                        Test Execution: 
+                                           Test Execution: 
 
 Each one of the Test Suites has a few tests for demonstration purposes. 
 These tests can be developed very simply, due to a lot of work done with the infrastructure. [Sanity Tests]
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                                                        Known Issues: 
+                                           Known Issues: 
 
 Due to different versions of package requirements that are desired for proper execution test cases on different platforms,
 you need to comment on other sections in the conftest.py script. 
