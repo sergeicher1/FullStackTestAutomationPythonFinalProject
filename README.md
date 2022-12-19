@@ -1,5 +1,5 @@
 # Full Stack Test Automation Project with Python
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeicher1&label=Profile%20views&color=0e75b6&style=flat" alt="sergeicher1" /> </p>
 
 Short Video – Description (https://youtu.be/-hh9Q2owlxk)
 
